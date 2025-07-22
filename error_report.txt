@@ -1,0 +1,6 @@
+Payroll Validation Error Report:
+==============================
+- Row 6: Duplicate employee ID: '1'.
+- Row 7: Invalid employee ID: 'A5' is not numeric.
+- Row 8: Invalid currency format: '1700.25$'.
+- Row 10: Invalid currency format: 'invalid_currency'.

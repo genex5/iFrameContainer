@@ -1,0 +1,11 @@
+Employee ID,Name,Salary
+1,John Doe,$1000.00
+2,Jane Smith,1200.50
+3,Peter Jones,$1300
+4,Mary Williams,$1400.75
+1,Duplicate ID,$1500.00
+A5,Invalid ID,$1600.00
+6,Robert Brown,1700.25$
+7,Patricia Garcia,$1800.00
+8,Michael Miller,invalid_currency
+9,Linda Davis,$2000.00
